@@ -84,6 +84,10 @@ p {
     align-items: center;
 }
 
+.add-to-cart:hover {
+    background-color: hsl(212, 21%, 14%);
+}
+
 .cart-icon {
     width: 15px;
     margin-right: 1rem;
